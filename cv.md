@@ -39,7 +39,7 @@ return a * b;
 
 * STREAMLINE: English A2 (completed)
 * Driving courses: B cat. (completed)
-* RS Schools Courses: «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Courses: «JS/FE Pre-School 2022Q2» (in progress)
 
 ###### **Languages**
 

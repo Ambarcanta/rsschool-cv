@@ -29,9 +29,11 @@ Always looking for something new and interesting to explore.
 
 ###### **Code Example**
 
+```Codewars
 function multiply(a, b){
 return a * b;
 }
+```
 
 ###### **Courses**
 
